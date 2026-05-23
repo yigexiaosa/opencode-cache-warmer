@@ -1,0 +1,7 @@
+{
+  "idle_threshold_minutes": 1,
+  "check_interval_minutes": 0.1,
+  "ping_message": "本条消息为ping保活消息，你只需要回复“hi”即可，禁止调用工具、子代理",
+  "max_failed_pings": 3,
+  "enabled": true
+}
